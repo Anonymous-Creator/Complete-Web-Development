@@ -1,0 +1,7 @@
+.btn-outline-secondary{
+	background-color: rgba(100,50,10,.5);
+}
+.col{
+	background-color: grey;
+	border:3px solid blue;
+}
